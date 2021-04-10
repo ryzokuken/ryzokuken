@@ -1,5 +1,7 @@
 My pronouns are he/him.
 
+Find some of my fun projects on [Gitea](https://git.disroot.org/ryzokuken).
+
 ## About Me
 
 - Compilers Hacker at [Igalia](https://www.igalia.com/)
